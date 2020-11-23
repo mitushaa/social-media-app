@@ -16,7 +16,7 @@ Build a Social Media App which will do the following:
 ### Setting up Database and server
 
 Using MongoDB Atlas account > Creating a project
-Creating a collection, eg. posts which has query details like: id, body, userName, createdAt.
+Creating a collection, eg. posts which has query details like: id, body, userName, createdAt.<br>
 Running the project using command: node index 
 
 ### Working with Registerations and the Users
