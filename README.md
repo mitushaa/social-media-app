@@ -25,4 +25,5 @@ Build a Social Media App which will do the following:
 klfMXRv78d4y7ReT
 
 ## References 
-My Skills with the help of YouTube Videos & StackOverFlow &#128578
+My Skills with the help of YouTube Videos & StackOverFlow 🙂
+
