@@ -12,3 +12,8 @@ Build a Social Media App which will do the following:
 4. Node.js
 5. GraphQL (Apollo)
 
+
+
+
+## References 
+My Skills with the help of YouTube Videos & StackOverFlow :)
