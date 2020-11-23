@@ -13,7 +13,7 @@ Build a Social Media App which will do the following:
 5. GraphQL (Apollo)
 
 ## Implementation Steps
-1. Setting up Database and server
+### Setting up Database and server
 
 Using MongoDB Atlas account > Creating a project
 Creating a collection, eg. posts which has query details like: id, body, userName, createdAt.
