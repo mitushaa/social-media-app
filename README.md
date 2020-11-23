@@ -17,7 +17,10 @@ Build a Social Media App which will do the following:
 
 Using MongoDB Atlas account > Creating a project
 Creating a collection, eg. posts which has query details like: id, body, userName, createdAt.<br>
-Running the project using command: node index 
+Creating User.js and Posts.js files 
+User.js file contains: username, password, email, createdAt<br>
+Posts.js file contains: comments, likes and
+Running the project using command: node index  user details.
 
 ### Working with Registerations and the Users
 ### Adding Authentication 
