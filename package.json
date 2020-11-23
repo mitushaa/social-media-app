@@ -4,7 +4,8 @@
   "description": "Build a Social Media App which will do the following:\r * Add post \r * delete Post",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index"
   },
   "repository": {
     "type": "git",
@@ -18,8 +19,10 @@
   },
   "homepage": "https://github.com/mitushaa/social-media-app#readme",
   "dependencies": {
+    "D": "^1.0.0",
     "apollo-server": "^2.19.0",
     "graphql": "^15.4.0",
-    "mongoose": "^5.10.15"
+    "mongoose": "^5.10.15",
+    "nodemon": "^2.0.6"
   }
 }
