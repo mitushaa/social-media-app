@@ -23,6 +23,10 @@ Posts.js file contains: comments, likes and
 Running the project using command: node index  user details.
 
 ### Working with Registerations and the Users
+
+Adding resolvers folder and add posts.js, users.js, comments.js
+
+
 ### Adding Authentication 
 ### Working with create and delete posts
 ### Working with the GraohQL
